@@ -9,6 +9,7 @@ class elf:
 make=elf()
 make.health=104
 make.attack=16 
+make.attackspeed=2,5
 print (make.health)
 print (make.attack)
 print (make.attackspeed)    
